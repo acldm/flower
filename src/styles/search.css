@@ -1,0 +1,23 @@
+.search-wp {
+    border: 1px solid #828282;
+    border-radius: 4px;
+    font-size: 0;
+    padding: 4px;
+    flex: 1;
+    display: flex;
+    justify-content: stretch;
+    align-items: stretch;
+    flex: 1;
+}
+
+.search {
+    display: block;
+    width: 100%;
+    background-color: transparent;
+    font-size: 1rem;
+    outline: none;
+    border: none;
+    line-height: 1;
+    padding: 0;
+    margin: 0;
+}
